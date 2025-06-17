@@ -9,6 +9,8 @@ dependencies = [
     "langchain-core>=0.3.65",
     "langchain-google-genai>=2.1.5",
     "langchain-google-vertexai>=2.0.25",
+    "langchain-openai>=0.3.23",
+    "langsmith>=0.3.45",
     "pydantic>=2.11.7",
     "scikit-image>=0.25.2",
 ]

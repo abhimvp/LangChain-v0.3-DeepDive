@@ -44,3 +44,7 @@ $ uv add --dev uv
 - To get GEMINI_API_KEY - go to [apiKey-docs](https://aistudio.google.com/app/apikey), and [Gemini Developer API docs](https://ai.google.dev/gemini-api/docs)
 
 - Took my time to understand things.
+
+## 02-langsmith.ipynb
+
+- `Langsmith` - an observability service for the langchain-ecosystem.
